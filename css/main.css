@@ -1,6 +1,19 @@
 /* Common */
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+}
 .container {
   margin: 0 auto;
   width: 600px;
   padding: 50px 30px;
+}
+
+h1 {
+  font-weight: 800;
+  padding-bottom: 30px;
+}
+
+.recipe {
+  padding: 30px 0;
 }
