@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #09a0f6;
+    color: #526475;
     font-weight: normal;
     text-decoration: none;
     transition: all 0.3s;
@@ -63,21 +63,19 @@ h2 {
     line-height: 22px;
 }
 
+.header-year {
+    margin-bottom: -2px;
+}
+
 h3 {
     font-size: 18px;
     line-height: 20px;
 }
 
 img {
-    width: 90%;
+    width: 100%;
     height: 300px;
     object-fit: cover;
-}
-
-.post-year {
-    display: inline-block;
-    width: 10%;
-    vertical-align: top;
 }
 
 .container {
