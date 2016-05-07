@@ -70,7 +70,8 @@ h3 {
 
 img {
     width: 90%;
-    height: auto;
+    height: 300px;
+    object-fit: cover;
 }
 
 .post-year {
