@@ -73,6 +73,16 @@ h2 {
     margin-bottom: -0.2rem;
 }
 
+.header-date {
+    display: inline-block;
+    width: 10%;
+}
+
+.header-recipe {
+    display: inline-block;
+    width: 90%;
+}
+
 h3 {
     font-size: 1.8rem;
     line-height: 2.0rem;
