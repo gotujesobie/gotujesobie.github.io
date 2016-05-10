@@ -13,16 +13,11 @@ body {
     background-color: #FFF;
 }
 
-article {
-    display: flex;
-    align-items: center;
-}
-
 a {
     color: #526475;
     font-weight: normal;
     text-decoration: none;
-    transition: all 0.3s;
+    transition: all .3s;
 }
 
 a:hover {
@@ -73,7 +68,7 @@ h2 {
 
 h3 {
     font-size: 1.8rem;
-    line-height: 2.0rem;
+    line-height: 2rem;
 }
 
 img {
@@ -83,28 +78,7 @@ img {
     margin-bottom: 1rem;
 }
 
-time {
-    align-self: baseline;
-}
-
 /* Classes */
-
-.listcolor {
-    color: #526475;
-}
-.entry-title {
-    align-self: baseline;
-    /*align-self: center;*/
-}
-
-.header-year {
-    margin-bottom: -0.2rem;
-}
-
-.header-recipe {
-    display: inline-block;
-    width: 90%;
-}
 
 .container {
     margin: 0 auto;
@@ -112,11 +86,35 @@ time {
     padding: 5rem 3rem;
 }
 
+.header-year {
+    margin-bottom: -.2rem;
+}
+
+.list-text-color {
+    color: #526475;
+}
+
+.post-time {
+    display: inline-block;
+    width: 10%
+
+}
+
+.post-title {
+    display: inline-block;
+    width: 90%;
+    font-size: 2rem;
+    margin: 0;
+
+}
+
 .post-day {
-    font-size: 3.5rem;
+    font-size: 2rem;
+    color: #a8b1ba;
 }
 
 .post-month {
     font-size: 2rem;
+    color: #a8b1ba;
     text-transform: uppercase;
 }
