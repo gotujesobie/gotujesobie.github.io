@@ -21,7 +21,8 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: #09a0f6;
     cursor: hand;
 }
 
