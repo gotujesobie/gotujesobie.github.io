@@ -108,3 +108,9 @@ time {
     width: 85%;
     margin: 0;
 }
+
+@media all and (min-width: 1024px) {
+    body {
+        width: 50%;
+    }
+}
