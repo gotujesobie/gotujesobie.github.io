@@ -77,7 +77,7 @@ article {
 
 hr {
     width: auto;
-    border-top: 1px dotted #a8b1ba;
+    /*border-top: 1px dotted #a8b1ba;*/
 }
 
 time {
