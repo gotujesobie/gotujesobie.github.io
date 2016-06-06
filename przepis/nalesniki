@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width,initial-scale=1.0,user-scalable=no" name="viewport">
+        <title>Naleśniki</title>
+        <link rel="stylesheet" href="../css/reset.css">
+        <link rel="stylesheet" href="../css/main.css">
+        <link href='https://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
+    </head>
+    <body class="container">
+
+        <article>
+
+            <h1>Naleśniki</h1>
+
+            <ul>
+                <li><span class="list-text-color">125 g mąki pszennej</span></li>
+                <li><span class="list-text-color">15 g drobnego cukru do wypieków</span></li>
+                <li><span class="list-text-color">szczypta soli</span></li>
+                <li><span class="list-text-color">2 jajka</span></li>
+                <li><span class="list-text-color">325 ml mleka</span></li>
+                <li><span class="list-text-color">100 ml śmietany 36%</span></li>
+                <li><span class="list-text-color">kilka kropel esencji waniliowej lub odrobina otartej skórki z cytryny</span></li>
+            </ul>
+            <p>Mąkę, cukier i sól wsypać do miski, wymieszać. Dodać jajka, 100 ml mleka, ciągle mieszając trzepaczką. Dolewać resztę mleka i kremówkę, wymieszać do otrzymania gładkiego ciasta. Odstawić ciasto w ciepłe miejsce na godzinę czasu.</p>
+            <p>Przed przystąpieniem do smażenia dodać esencję. Patelnię (22 cm średnicy) posmarować odrobiną masła i podgrzać. Nalewać cienką warstwę ciasta i smażyć około 1 minuty, na średniej mocy palnika. Gdy cała powierzchnia naleśnika pokryje się pęcherzykami powietrza, odwrócić naleśnik i smażyć kolejne 30 - 40 sekund, do zrumienienia. Przełożyć na talerz.</p>
+
+        </article>
+
+    </body>
+</html>
