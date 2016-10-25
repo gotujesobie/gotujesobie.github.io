@@ -67,8 +67,9 @@ h2 {
 }
 
 h3 {
-    font-size: 1.8rem;
-    line-height: 2rem;
+    font-size: 1.6rem;
+    line-height: 1rem;
+    margin-left: 0.5rem;
 }
 
 article {
